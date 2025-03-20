@@ -19,6 +19,8 @@ public class TestNGAssertions {
         Assert.assertNull(null);
         
         Assert.assertNotNull("TestNG");
+
+        System.out.println("TestNG Assertions");
 	}
 
 }
